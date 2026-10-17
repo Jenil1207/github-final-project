@@ -1,0 +1,9 @@
+D:\Mine\Somaiya\FS\mcino-Introduction-to-Git-and-GitHub>git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+D:\Mine\Somaiya\FS\mcino-Introduction-to-Git-and-GitHub>git merge bug-fix-typo
+Updating b1bedda..f3b6043
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)

@@ -1,0 +1,7 @@
+D:\Mine\Somaiya\FS\mcino-Introduction-to-Git-and-GitHub>git branch -avv
+* bug-fix-revert                05a54e8 [origin/bug-fix-revert] Revert README typo fix
+  bug-fix-typo                  f3b6043 Fix typo in README
+  main                          89edfb3 [origin/main: ahead 2] Merge branch 'main' of https://github.com/Jenil1207/mcino-Introduction-to-Git-and-GitHub
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 05a54e8 Revert README typo fix
+  remotes/origin/main           79d375f Create merge_branches
